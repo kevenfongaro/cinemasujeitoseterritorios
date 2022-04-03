@@ -1,0 +1,1 @@
+Sorteador de ações para oficina de experimentação audiovisual do projeto <a href="https://cinemasujeitoseterritorios.uff.br">Cinema, Sujeitos e Territórios</a>, promovido pelo Departamento de Cinema e Vídeo da Universidade Federal Fluminense.
